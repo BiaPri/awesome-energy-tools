@@ -37,37 +37,23 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 #### Residential Buildings
 | Dataset name | Country  | Sites | Duration | Resolution |
 |--------------|----------|-------|----------|------------|
-| EMBED        | US       | 3     | 2-4 weeks| 12 kHz (I, V), 1-2 Hz (plug loads) |
-| REDD         | US       | 6     | 2-4 weeks| 15 kHz (P, V); 0.5-1 Hz (NILM data at plug/circuit level) |
-| BLUED        | US       | 1     | 1 week   | 12 kHz (I, V) |
-| PLAID        | US       | 56    | Summer 2013 and winter 2014 | 30 kHz (I, V) |
-| ADRES        | Austria  | 30    | 2 weeks  | 1 Hz |
-| REFIT        | UK       | 20    | 2 years  | 0.125 Hz |
-| UK-DALE      | UK       | 5     | 4 years  | 16 kHz (I, V in 3 buildings); 0.17 Hz (appliance-level demand) |
-| DRED         | The Netherlands | 1 |                     | 6 months | 1 Hz (energy demand); 1 minute (ambient conditions) |
-| Dataport     | US       | 1400+ | 4 years  | 1 Hz, 1 minute, 15 minutes |
-| Smart*       | US       | 3     | 3 weeks  | 1 Hz |
-| AMPds        | Canada   | 1     | 2 years  | 1 minute |
-| ECODS          | Switzerland | 6 | 8 months | 1 Hz |
-| PRECON       | Germany  | 11    | 3 years  | 1 minute |
-| CoSSMic      | Germany  | 11    | 3 years  | 1 minute |
+| ✔️[EMBED](http://embed-dataset.org/) | US       | 3     | 2-4 weeks| 12 kHz (I, V), 1-2 Hz (plug loads) |
+| ❌[REDD](https://www.reddit.com/r/datasets/comments/11mtihj/redd_a_public_data_set_for_energy_disaggregation/?rdt=34674)| US       | 6     | 2-4 weeks| 15 kHz (P, V); 0.5-1 Hz (NILM data at plug/circuit level) |
+| ❌[BLUED](https://tokhub.github.io/dbecd/links/Blued.html)| US       | 1     | 1 week   | 12 kHz (I, V) |
+| ✔️[PLAID](https://figshare.com/articles/dataset/PLAID_-_A_Voltage_and_Current_Measurement_Dataset_for_Plug_Load_Appliance_Identification_in_Households/10084619) | US       | 56    | Summer 2013 and winter 2014 | 30 kHz (I, V) |
+| ❌[ADRES](https://publik.tuwien.ac.at/files/PubDat_178659.pdf) | Austria  | 30    | 2 weeks  | 1 Hz |
+| ✔️[REFIT](https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned) | UK       | 20    | 2 years  | 0.125 Hz |
+| ✔️[UK-DALE](https://jack-kelly.com/data/) | UK       | 5     | 4 years  | 16 kHz (I, V in 3 buildings); 0.17 Hz (appliance-level demand) |
+| ✔️[DRED](https://www.st.ewi.tudelft.nl/~akshay/dred/) | The Netherlands | 1 |                     | 6 months | 1 Hz (energy demand); 1 minute (ambient conditions) |
+| ✔️[Dataport](https://github.com/Pecan-Street/DataPort-Examples) | US       | 1400+ | 4 years  | 1 Hz, 1 minute, 15 minutes |
+| ✔️[Smart*](https://traces.cs.umass.edu/index.php/smart/smart) | US       | 3     | 3 weeks  | 1 Hz |
+| ✔️[AMPds](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4) | Canada   | 1     | 2 years  | 1 minute |
+| ✔️[ECODS](https://vs.inf.ethz.ch/res/show.html?what=eco-data) | Switzerland | 6 | 8 months | 1 Hz |
+| ✔️[PRECON](https://web.lums.edu.pk/~eig/precon.html)| Germany  | 11    | 3 years  | 1 minute |
+| ✔️[CoSSMic](https://data.open-power-system-data.org/household_data/)| Germany  | 11    | 3 years  | 1 minute |
 | ENERTALK     | South Korea | 22 | 29-122 days | 15 Hz |
 | SustData     | Portugal | 50    | 1144 days | 2 - 10 Hz |
-
-- ✔️[EMBED](http://embed-dataset.org/)
-- ❌[REDD](https://www.reddit.com/r/datasets/comments/11mtihj/redd_a_public_data_set_for_energy_disaggregation/?rdt=34674) 
-- ❌[BLUED](https://tokhub.github.io/dbecd/links/Blued.html) 
-- ✔️[PLAID](https://figshare.com/articles/dataset/PLAID_-_A_Voltage_and_Current_Measurement_Dataset_for_Plug_Load_Appliance_Identification_in_Households/10084619) 
-- ❌[ADRES](https://publik.tuwien.ac.at/files/PubDat_178659.pdf) 
-- ✔️[REFIT](https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned) 
-- ✔️[UK-DALE](https://jack-kelly.com/data/) 
-- ✔️[DRED](https://www.st.ewi.tudelft.nl/~akshay/dred/) 
-- ✔️[Dataport](https://github.com/Pecan-Street/DataPort-Examples) 
-- ✔️[Smart*](https://traces.cs.umass.edu/index.php/smart/smart) 
-- ✔️[AMPds](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4)
-- ✔️[ECODS](https://vs.inf.ethz.ch/res/show.html?what=eco-data)
-- ✔️[PRECON](https://web.lums.edu.pk/~eig/precon.html)
-- ✔️[CoSSMic](https://data.open-power-system-data.org/household_data/)
+ 
 - [ENERTALK]()
 - [SustData]()
 
