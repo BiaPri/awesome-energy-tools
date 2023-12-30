@@ -14,6 +14,7 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 [PyPSA](https://github.com/PyPSA)
 
 [OPT: Open Energy Transition](https://openenergytransition.org/)
+
 [Open Energy Platform](https://openenergy-platform.org/dataedit/schemas)
 
 ## Research Gaps
