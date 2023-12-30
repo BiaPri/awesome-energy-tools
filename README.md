@@ -15,6 +15,7 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ## ⌚ Todo
 - Mention Research gap
+- Write a short description for each source
 - Look in [Figshare](https://figshare.com) for new datasets
 - Look in [Havard Datavers](https://dataverse.harvard.edu/) for new datasets
 - Look in [OFS Home](https://osf.io/) for new datasets
