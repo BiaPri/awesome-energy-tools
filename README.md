@@ -8,7 +8,20 @@ The foundation of this repository is inspired by the excellent paper of Hussain 
 [Towards data-driven energy communities:
 a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rser.2021.111290)
 
-## Important to Mention
+## 🔍 Research Gaps
+- Heat Data
+- Transportation/Mobility Data
+- Data Geographical discrepancy
+
+## ⌚ Todo
+- Mention Research gap
+- Look in [Figshare](https://figshare.com) for new datasets
+- Look in [Havard Datavers](https://dataverse.harvard.edu/) for new datasets
+- Look in [OFS Home](https://osf.io/) for new datasets
+- Look in [Zenodo](https://zenodo.org/) for new datasets
+- Look in [Kaggle](https://www.kaggle.com/) for new datasets
+
+## ⚠️ Important to Mention
 [OPSD](https://open-power-system-data.org/)
 
 [PyPSA](https://github.com/PyPSA)
@@ -17,19 +30,11 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 [Open Energy Platform](https://openenergy-platform.org/dataedit/schemas)
 
-## Research Gaps
-- Heat Data
-- Transportation/Mobility Data
-- Data Geographical discrepancy
+[Global Energy Monitor](https://globalenergymonitor.org/)
 
-## Todo
-- Mention Research gap
-- Look in [Figshare](https://figshare.com) for new datasets
-- Look in [Havard Datavers](https://dataverse.harvard.edu/) for new datasets
-- Look in [OFS Home](https://osf.io/) for new datasets
-- Look in [Zenodo](https://zenodo.org/) for new datasets
-- Look in [Kaggle](https://www.kaggle.com/) for new datasets
-
+## Missing Data
+✔️: Dataset is available
+❌: Dataset not found
 
 ## Contents
 
@@ -37,10 +42,18 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
     1. [Electricity-Demand](#electicity-demand)
     2. [Heat-Demand](#heat-demand)
     3. [Weather-Climate](#weather-climate)
+    4. [Photovoltaic](#photovoltaic)
+    5. [Wind-Turbine](#wind-turbine)
 - [Tools-Models](#tools-models)
-- [Optimization](#optimization)
+    1. [Electricity_Generation](#electricity_generation)
+    2. [Electricity_Demand](#electicity_demand)
+    3. [Storage](#storage)
+    4. [Building-System-Simulation](#building-system-simulation)
+    5. [Storage](#storage)
+    6. [Power-systems-and-grid-simulation](#power-systems-and-grid -simulation)
+    7. [Optimization](#optimization)
 - [Visualization](#visualization)
-- [Forecasting](#forecasting)
+- [Miscellanous](#miscellanous)
 - [Papers](#papers)
 
 ## Datasets
@@ -87,9 +100,31 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ### Weather-Climate
 
-## Tools-Models
+### Photovoltaic
 
-## Optimization
+### Wind Turbine
+
+## Tools-Models
+### Electricity_Generation
+- [PVGIS](https://re.jrc.ec.europa.eu/pvg_tools/en/)
+- [NREL PVWatts](https://pvwatts.nrel.gov/index.php)
+- [PVLIB - Python](https://pvlib-python.readthedocs.io/en/stable/)
+- [Renewables.ninja](https://www.renewables.ninja/)
+- [PyPSA atlite](https://github.com/PyPSA/atlite)
+- [feedinlib](https://github.com/oemof/feedinlib) 
+
+### Electricity_Demand
+- [Load Profile Generator (LPG)](https://www.loadprofilegenerator.de/)
+- [Artificial Load Profile Generator (ALPG)](https://github.com/utwente-energy/alpg)
+- [demandlib](https://github.com/oemof/demandlib)
+
+### Storage
+
+### Bulding Systems Simulation
+
+### Power systems and grid simulation
+
+### Optimization
 
 ## Visualization
 
