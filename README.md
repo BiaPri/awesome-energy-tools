@@ -10,6 +10,7 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ## Important to Mention
 [OPSD](https://open-power-system-data.org/)
+
 [PyPSA](https://github.com/PyPSA)
 
 ## Todo:
@@ -95,3 +96,11 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 ## Weather-Climate
 
 ## Tools-Models
+
+## Optimization
+
+## Visualization
+
+## Forecasting
+
+## Papers
