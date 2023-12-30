@@ -11,11 +11,15 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 
 -> Linkedin like and text description
+-> Research gap
 
 
 ## Contents
 
 - [Datasets](#datasets)
+    1. [Electricity Demand](#electicitydemand)
+    2. [Heat Demand](#heatdemand)
+    3. [Weather-Climate](#weather-climate)
 - [Tools/Models](#models)
 - [Optimization](#optimization)
 - [Visualization](#visualization)
@@ -45,7 +49,6 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 | ENERTALK     | South Korea | 22 | 29-122 days | 15 Hz |
 | SustData     | Portugal | 50    | 1144 days | 2 - 10 Hz |
 
-
 - [EMBED]()
 - [REDD]() 
 - [BLUED]() 
@@ -65,4 +68,22 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 #### Commercial Buildings
 
+| Dataset name    | Country        | Sites                        | Duration    | Resolution |
+|-----------------|----------------|------------------------------|-------------|------------|
+| BLOND           | Germany        | Office/lab                   | 50-230 days | Aggregate: 50-250 kHz, Individual (appliance-level) 6.4 kHz |
+| I-BLEND         | India          | University                   | 52 months   | 1 minute (load); 10 minutes (occupancy) |
+| COMBED          | India          | University                   | 7+ years    | 0.5 minutes |
+| Building Data Genome | US, UK, Australia | 500 (offices, universities, commercial) | 1 year | Hourly |
+| ASHRAE          | Worldwide      | 1449                         | 3 year      | Hourly |
+| IEEE PES        | Multiple       | Multiple                     | Multiple    | Multiple |
+
+- [BLOND]()
+- [I-BLEND]() 
+- [COMBED]() 
+- [Building Data Genome]() 
+- [ASHRAE]() 
+- [IEEE PES]() 
+
 ### Map and Stats
+
+## Weather-Climate
