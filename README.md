@@ -8,10 +8,14 @@ The foundation of this repository is inspired by the excellent paper of Hussain 
 [Towards data-driven energy communities:
 a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rser.2021.111290)
 
+## Important to Mention
+[OPSD](https://open-power-system-data.org/)
+[PyPSA](https://open-power-system-data.org/)
 
-
-TODO: Linkedin like and text description
-TODO: Mention Research gap
+__TODO__:
+- Mention Research gap
+- Look in [Figshare](https://figshare.com) for new datasets
+- Look in [Havard Datavers](https://dataverse.harvard.edu/) for new datasets
 
 
 ## Contents
@@ -20,7 +24,7 @@ TODO: Mention Research gap
     1. [Electricity-Demand](#electicity-demand)
     2. [Heat-Demand](#heat-demand)
     3. [Weather-Climate](#weather-climate)
-- [Tools/Models](#models)
+- [Tools-Models](#tools-models)
 - [Optimization](#optimization)
 - [Visualization](#visualization)
 - [Forecasting](#forecasting)
@@ -52,17 +56,17 @@ TODO: Mention Research gap
 - ✔️[EMBED](http://embed-dataset.org/)
 - ❌[REDD](https://www.reddit.com/r/datasets/comments/11mtihj/redd_a_public_data_set_for_energy_disaggregation/?rdt=34674) 
 - ❌[BLUED](https://tokhub.github.io/dbecd/links/Blued.html) 
-- [PLAID]() 
-- [ADRES]() 
-- [REFIT]() 
-- [UK-DALE]() 
-- [DRED]() 
-- [Dataport]() 
-- [Smart*]() 
-- [AMPds]()
-- [ECO]()
-- [PRECON]()
-- [CoSSMic]()
+- ✔️[PLAID](https://figshare.com/articles/dataset/PLAID_-_A_Voltage_and_Current_Measurement_Dataset_for_Plug_Load_Appliance_Identification_in_Households/10084619) 
+- ❌[ADRES](https://publik.tuwien.ac.at/files/PubDat_178659.pdf) 
+- ✔️[REFIT](https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned) 
+- ✔️[UK-DALE](https://jack-kelly.com/data/) 
+- ✔️[DRED](https://www.st.ewi.tudelft.nl/~akshay/dred/) 
+- ✔️[Dataport](https://github.com/Pecan-Street/DataPort-Examples) 
+- ✔️[Smart*](https://traces.cs.umass.edu/index.php/smart/smart) 
+- ✔️[AMPds](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4)
+- ✔️[ECODS](https://vs.inf.ethz.ch/res/show.html?what=eco-data)
+- ✔️[PRECON](https://web.lums.edu.pk/~eig/precon.html)
+- ✔️[CoSSMic](https://data.open-power-system-data.org/household_data/)
 - [ENERTALK]()
 - [SustData]()
 
@@ -89,3 +93,5 @@ TODO: Mention Research gap
 ## Heat-Demand
 
 ## Weather-Climate
+
+## Tools-Models
