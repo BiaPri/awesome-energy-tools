@@ -10,9 +10,9 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ## Important to Mention
 [OPSD](https://open-power-system-data.org/)
-[PyPSA](https://open-power-system-data.org/)
+[PyPSA](https://github.com/PyPSA)
 
-__TODO__:
+## Todo:
 - Mention Research gap
 - Look in [Figshare](https://figshare.com) for new datasets
 - Look in [Havard Datavers](https://dataverse.harvard.edu/) for new datasets
@@ -28,7 +28,7 @@ __TODO__:
 - [Optimization](#optimization)
 - [Visualization](#visualization)
 - [Forecasting](#forecasting)
-- [Papers](#computer-science)
+- [Papers](#papers)
 
 ## Datasets
 
