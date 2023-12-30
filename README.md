@@ -91,9 +91,9 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 #### Map and Stats
 
-## Heat-Demand
+### Heat-Demand
 
-## Weather-Climate
+### Weather-Climate
 
 ## Tools-Models
 
