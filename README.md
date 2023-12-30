@@ -1,4 +1,4 @@
-# awesome-energy-tools
+# ⚡ awesome-energy-tools
 The main goals of this repository are as follows:
 1. Create a central hub of datasets and tools tailored for energy practitioners with intermediate programming skills. 
 2. Facilitate energy research efforts and collaboration
@@ -10,15 +10,15 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 
 
--> Linkedin like and text description
--> Research gap
+TODO: Linkedin like and text description
+TODO: Mention Research gap
 
 
 ## Contents
 
 - [Datasets](#datasets)
-    1. [Electricity Demand](#electicitydemand)
-    2. [Heat Demand](#heatdemand)
+    1. [Electricity-Demand](#electicity-demand)
+    2. [Heat-Demand](#heat-demand)
     3. [Weather-Climate](#weather-climate)
 - [Tools/Models](#models)
 - [Optimization](#optimization)
@@ -28,7 +28,7 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ## Datasets
 
-### Demand
+### Electricity-Demand
 #### Residential Buildings
 | Dataset name | Country  | Sites | Duration | Resolution |
 |--------------|----------|-------|----------|------------|
@@ -49,9 +49,9 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 | ENERTALK     | South Korea | 22 | 29-122 days | 15 Hz |
 | SustData     | Portugal | 50    | 1144 days | 2 - 10 Hz |
 
-- [EMBED]()
-- [REDD]() 
-- [BLUED]() 
+- ✔️[EMBED](http://embed-dataset.org/)
+- ❌[REDD](https://www.reddit.com/r/datasets/comments/11mtihj/redd_a_public_data_set_for_energy_disaggregation/?rdt=34674) 
+- ❌[BLUED](https://tokhub.github.io/dbecd/links/Blued.html) 
 - [PLAID]() 
 - [ADRES]() 
 - [REFIT]() 
@@ -84,6 +84,8 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 - [ASHRAE]() 
 - [IEEE PES]() 
 
-### Map and Stats
+#### Map and Stats
+
+## Heat-Demand
 
 ## Weather-Climate
