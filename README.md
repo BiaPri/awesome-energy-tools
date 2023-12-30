@@ -50,7 +50,7 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
     3. [Storage](#storage)
     4. [Building-System-Simulation](#building-system-simulation)
     5. [Storage](#storage)
-    6. [Power-systems-and-grid-simulation](#power-systems-and-grid -simulation)
+    6. [Power-Systems-Grid-Simulation](#power-systems-grid-simulation)
     7. [Optimization](#optimization)
 - [Visualization](#visualization)
 - [Miscellanous](#miscellanous)
@@ -102,7 +102,7 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ### Photovoltaic
 
-### Wind Turbine
+### Wind-Turbine
 
 ## Tools-Models
 ### Electricity_Generation
@@ -120,9 +120,9 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ### Storage
 
-### Bulding Systems Simulation
+### Bulding-Systems-Simulation
 
-### Power systems and grid simulation
+### Power-systems-grid-simulation
 
 ### Optimization
 
