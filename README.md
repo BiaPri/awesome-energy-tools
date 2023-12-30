@@ -13,10 +13,21 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 [PyPSA](https://github.com/PyPSA)
 
-## Todo:
+[OPT: Open Energy Transition](https://openenergytransition.org/)
+[Open Energy Platform](https://openenergy-platform.org/dataedit/schemas)
+
+## Research Gaps
+- Heat Data
+- Transportation/Mobility Data
+- Data Geographical discrepancy
+
+## Todo
 - Mention Research gap
 - Look in [Figshare](https://figshare.com) for new datasets
 - Look in [Havard Datavers](https://dataverse.harvard.edu/) for new datasets
+- Look in [OFS Home](https://osf.io/) for new datasets
+- Look in [Zenodo](https://zenodo.org/) for new datasets
+- Look in [Kaggle](https://www.kaggle.com/) for new datasets
 
 
 ## Contents
@@ -51,33 +62,27 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 | ✔️[ECODS](https://vs.inf.ethz.ch/res/show.html?what=eco-data) | Switzerland | 6 | 8 months | 1 Hz |
 | ✔️[PRECON](https://web.lums.edu.pk/~eig/precon.html)| Germany  | 11    | 3 years  | 1 minute |
 | ✔️[CoSSMic](https://data.open-power-system-data.org/household_data/)| Germany  | 11    | 3 years  | 1 minute |
-| ENERTALK     | South Korea | 22 | 29-122 days | 15 Hz |
-| SustData     | Portugal | 50    | 1144 days | 2 - 10 Hz |
- 
-- [ENERTALK]()
-- [SustData]()
+| ✔️[ENERTALK](https://github.com/ch-shin/ENERTALK-dataset)| South Korea | 22 | 29-122 days | 15 Hz |
+| ✔️[SustData](https://osf.io/2ac8q/)| Portugal | 50    | 1144 days | 2 - 10 Hz |
 
 #### Commercial Buildings
 
 | Dataset name    | Country        | Sites                        | Duration    | Resolution |
 |-----------------|----------------|------------------------------|-------------|------------|
-| BLOND           | Germany        | Office/lab                   | 50-230 days | Aggregate: 50-250 kHz, Individual (appliance-level) 6.4 kHz |
-| I-BLEND         | India          | University                   | 52 months   | 1 minute (load); 10 minutes (occupancy) |
-| COMBED          | India          | University                   | 7+ years    | 0.5 minutes |
-| Building Data Genome | US, UK, Australia | 500 (offices, universities, commercial) | 1 year | Hourly |
-| ASHRAE          | Worldwide      | 1449                         | 3 year      | Hourly |
-| IEEE PES        | Multiple       | Multiple                     | Multiple    | Multiple |
+| ✔️[BLOND](https://zenodo.org/records/838974)       | Germany        | Office/lab                   | 50-230 days | Aggregate: 50-250 kHz, Individual (appliance-level) 6.4 kHz |
+| ✔️[I-BLEND](https://springernature.figshare.com/collections/I-BLEND_a_campus_scale_commercial_and_residential_buildings_electrical_energy_dataset/3893581/1)     | India          | University                   | 52 months   | 1 minute (load); 10 minutes (occupancy) |
+| ✔️[COMBED](https://combed.github.io/)      | India          | University                   | 7+ years    | 0.5 minutes |
+| ✔️[Building Data Genome](https://github.com/buds-lab/the-building-data-genome-project) | US, UK, Australia | 500 (offices, universities, commercial) | 1 year | Hourly |
+| ✔️[ASHRAE](https://www.kaggle.com/c/ashrae-energy-prediction)      | Worldwide      | 1449                         | 3 year      | Hourly |
+| ❌[IEEE PES]()    | Multiple       | Multiple                     | Multiple    | Multiple |
 
-- [BLOND]()
-- [I-BLEND]() 
-- [COMBED]() 
-- [Building Data Genome]() 
-- [ASHRAE]() 
-- [IEEE PES]() 
+#### Electric Vehicle
+- ✔️[ElaadNL](https://platform.elaad.io/analyses/ElaadNL_opendata.php) 
 
 #### Map and Stats
 
 ### Heat-Demand
+- ✔️[CU-BEMS](https://www.kaggle.com/datasets/claytonmiller/cubems-smart-building-energy-and-iaq-data)
 
 ### Weather-Climate
 
