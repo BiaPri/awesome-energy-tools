@@ -48,11 +48,12 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 - [Tools-Models](#tools-models)
     1. [Electricity_Generation](#electricity_generation)
     2. [Electricity_Demand](#electicity_demand)
-    3. [Storage](#storage)
-    4. [Building-System-Simulation](#building-system-simulation)
-    5. [Storage](#storage)
-    6. [Power-Systems-Grid-Simulation](#power-systems-grid-simulation)
-    7. [Optimization](#optimization)
+    3. [Electricity_Demand](#electicity_demand)
+    4. [Storage](#storage)
+    5. [Heat_Demand](#heat_demand)
+    6. [Building-System-Simulation](#building-system-simulation)
+    7. [Power-Systems-Grid-Simulation](#power-systems-grid-simulation)
+    8. [Optimization](#optimization)
 - [Visualization](#visualization)
 - [Miscellanous](#miscellanous)
 - [Papers](#papers)
@@ -120,6 +121,9 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 - [demandlib](https://github.com/oemof/demandlib)
 
 ### Storage
+
+### Heat_Demand
+- [Demand.ninja](https://demand.ninja/)
 
 ### Bulding-Systems-Simulation
 
