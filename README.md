@@ -1,5 +1,5 @@
 # ⚡ awesome-energy-tools
-The main goals of this repository are as follows:
+The main goals of this repository are:
 1. Create a central hub of datasets and tools tailored for energy practitioners with intermediate programming skills. 
 2. Facilitate energy research efforts and collaboration
 
