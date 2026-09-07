@@ -106,6 +106,9 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 
 ### Wind-Turbine
 
+### Electricity Generation & Access
+- ✔️[AfrPowerOS](https://github.com/kawacukennedy/afrpoweros) - Open dataset tracking civilian nuclear and energy infrastructure programs across all 54 African countries: IAEA Milestone phases, regulators, installed capacity, generation mix, and electricity access, with source-cited records and confidence labels.
+
 ## Tools-Models
 ### Electricity_Generation
 - [PVGIS](https://re.jrc.ec.europa.eu/pvg_tools/en/)
