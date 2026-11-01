@@ -113,7 +113,8 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 - [PVLIB - Python](https://pvlib-python.readthedocs.io/en/stable/)
 - [Renewables.ninja](https://www.renewables.ninja/)
 - [PyPSA atlite](https://github.com/PyPSA/atlite)
-- [feedinlib](https://github.com/oemof/feedinlib) 
+- [feedinlib](https://github.com/oemof/feedinlib)
+- [Solars Net Billing Calculator](https://github.com/romangrid/solars-net-billing-calculator) - Modeling and yield calculation tool for commercial rooftop solar PV systems under Net Billing mechanisms. 
 
 ### Electricity_Demand
 - [Load Profile Generator (LPG)](https://www.loadprofilegenerator.de/)
@@ -121,6 +122,7 @@ a review of open-source datasets, models and tool](https://doi.org/10.1016/j.rse
 - [demandlib](https://github.com/oemof/demandlib)
 
 ### Storage
+- [SunEco BESS Sizing](https://github.com/romangrid/suneco-bess-sizing) - Sizing and load profile optimization for commercial battery energy storage systems (BESS) and industrial peak-shaving microgrids.
 
 ### Heat_Demand
 - [Demand.ninja](https://demand.ninja/)
